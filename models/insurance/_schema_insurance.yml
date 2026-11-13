@@ -48,4 +48,3 @@ models:
               arguments:
                 to: ref('dim_customer') # the model you want to compare to
                 field: customer_key # the field on the model you want to compare to
-
